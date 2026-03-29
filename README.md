@@ -3,6 +3,11 @@
 This project is a  sentiment analysis web app built using a Bidirectional LSTM model. It takes a movie review as input and predicts whether the sentiment is positive or negative.
 
 I built this mainly to understand how LSTM-based models work on text data and how to deploy them using Streamlit.
+---
+Live Demo
+
+You can try the app here:
+https://imdb-sentiment-analysis-1.streamlit.app/
 
 ---
 
